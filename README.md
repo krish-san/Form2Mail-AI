@@ -30,7 +30,7 @@ I originally crafted it as a part of an application round , I’m sharing it her
 3. In your `Code.gs` file, replace this line:
 
    ```javascript
-   const API_KEY = "YOUR_API_KEY";
+   const apiKey = "YOUR_API_KEY";
 
 ### Step 2: Set Up Your Google Form
 
